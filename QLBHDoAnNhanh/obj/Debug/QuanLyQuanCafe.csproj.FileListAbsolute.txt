@@ -1,0 +1,39 @@
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\nguye\Documents\DotNet\WindowsForms\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\HaiPhongUniversity\FIT\Nam3\MoiTruongLapTrinhTrucQuan\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb

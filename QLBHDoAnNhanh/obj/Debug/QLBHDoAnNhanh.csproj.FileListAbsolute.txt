@@ -1,0 +1,26 @@
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\bin\Debug\QLBHDoAnNhanh.exe.config
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\bin\Debug\QLBHDoAnNhanh.exe
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\bin\Debug\QLBHDoAnNhanh.pdb
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.fAccountProfile.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.fAdmin.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.fLogin.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.fTableManager.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.exe
+C:\Users\Administrator\Desktop\New folder (2)\QuanLyQuanCafe\obj\Debug\QLBHDoAnNhanh.pdb
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\bin\Debug\QLBHDoAnNhanh.exe.config
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\bin\Debug\QLBHDoAnNhanh.exe
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\bin\Debug\QLBHDoAnNhanh.pdb
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.fAccountProfile.resources
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.fAdmin.resources
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.fLogin.resources
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.fTableManager.resources
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.exe
+C:\Users\Administrator\Desktop\Cô Hường\QLBHDoAnNhanh\obj\Debug\QLBHDoAnNhanh.pdb
